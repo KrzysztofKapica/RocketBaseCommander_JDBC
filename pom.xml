@@ -35,7 +35,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <name>AppName</name>
-
 </project>
