@@ -1,5 +1,7 @@
 package org.example;
 
+// Main manu of the game.
+
 public class Main {
     public static void main(String[] args) {
 

@@ -1,5 +1,7 @@
 package org.example;
 
+// A class responsible for taking input from a user.
+
 import java.util.Scanner;
 
 public class GetInt {

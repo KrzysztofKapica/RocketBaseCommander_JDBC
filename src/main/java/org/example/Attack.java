@@ -1,5 +1,7 @@
 package org.example;
 
+// A class with main application logic of the game.
+
 public class Attack {
 
     Repository repository = new Repository();

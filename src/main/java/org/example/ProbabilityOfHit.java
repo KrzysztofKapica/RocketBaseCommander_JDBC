@@ -1,5 +1,7 @@
 package org.example;
 
+// A class responsible for counting of probability of hit of a target by a rocket.
+
 import java.util.Random;
 
 public class ProbabilityOfHit {

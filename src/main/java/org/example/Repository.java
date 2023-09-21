@@ -1,5 +1,7 @@
 package org.example;
 
+// A class responsible for taking and sending data to database using JDBC.
+
 import java.sql.*;
 
 public class Repository {
